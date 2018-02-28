@@ -1,6 +1,6 @@
 {
   "name": "position-element",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple function for positioning one DOM element relative to another DOM element",
   "main": "lib/position-element.js",
   "scripts": {
