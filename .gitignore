@@ -1,0 +1,6 @@
+node_modules
+dist
+package.json.bak*
+.idea
+.tmp
+scripts-dist
