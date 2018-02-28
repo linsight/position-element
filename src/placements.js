@@ -89,6 +89,7 @@ export function getPlacementStyle(
 
   // default position center within anchor
   const placementStyle = {
+    position: 'absolute',
     left: anchorElement.offsetLeft + (anchorRect.width - elemRect.width) / 2,
     top: anchorElement.offsetTop + (anchorRect.height - elemRect.height) / 2,
   };
