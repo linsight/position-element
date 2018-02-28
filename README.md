@@ -35,7 +35,7 @@ positionElement(config);
 
 # Live demo
 
-[demo.html](demo.html)
+[demo.html](https://linsight.github.io/position-element/demo.html)
 
 # Tips
 
