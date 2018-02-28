@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/linsight/react-provide-state.git"
+    "url": "https://github.com/linsight/position-element"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "David Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linsight/react-provide-state/issues"
+    "url": "https://github.com/linsight/position-element.git/issues"
   },
-  "homepage": "https://github.com/linsight/react-provide-state",
+  "homepage": "https://linsight.github.io/position-element/",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
